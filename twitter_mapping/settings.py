@@ -1,4 +1,5 @@
 # Django settings for twitter_mapping project.
+import os
 
 DEBUG = False
 TEMPLATE_DEBUG = DEBUG
@@ -122,7 +123,8 @@ INSTALLED_APPS = (
     # 'django.contrib.admindocs',
     'twitter',
     'south',
-    'django_extensions'
+    'django_extensions',
+    'registration',
 )
 
 # A sample logging configuration. The only tangible logging

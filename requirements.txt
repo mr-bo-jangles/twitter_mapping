@@ -1,3 +1,4 @@
 Django==1.5.2
 django-extensions
 South
+django-registration
