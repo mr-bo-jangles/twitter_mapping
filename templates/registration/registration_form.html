@@ -1,9 +1,21 @@
+{% load static %}
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="{% static 'twitter/css/bootstrap.min.css' %}"/>
     <title>Register for Twitter Mapping</title>
 </head>
 <body>
-{{ form }}
+    <div class="container">
+        <div class="row">
+            <form action="#" method="post">
+                {% csrf_token %}
+                {{ form }}
+                <input class="btn btn-success" type="submit" value="Register">
+            </form>
+        </div>
+    </div>
 </body>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="{% static 'twitter/js/bootstrap.min.js' %}"></script>
 </html>

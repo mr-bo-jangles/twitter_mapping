@@ -2,30 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/registration/activate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/registration/activation_complete.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/registration/activation_email.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/registration/activation_email_subject.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter_mapping/local_settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/registration/registration_complete.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/registration/registration_form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter/models.py" afterPath="$PROJECT_DIR$/twitter/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter_mapping/settings.py" afterPath="$PROJECT_DIR$/twitter_mapping/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter_mapping/urls.py" afterPath="$PROJECT_DIR$/twitter_mapping/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter/views.py" afterPath="$PROJECT_DIR$/twitter/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter/static/twitter/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter/static/twitter/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter/static/twitter/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter/static/twitter/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter/static/twitter/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter/static/twitter/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter/static/twitter/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter/static/twitter/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter/static/twitter/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter/static/twitter/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/registration/registration_form.html" afterPath="$PROJECT_DIR$/templates/registration/registration_form.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="29c30468-b850-4520-b108-8c78ba7f6be5" name="Never Commit" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter_mapping/local_settings.py" />
     </list>
     <ignored path="twitter_mapping.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377200132019" ignored="false" />
+    <file path="/Dummy.txt" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377201077331" ignored="false" />
     <file path="/models.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377200491887" ignored="false" />
     <file path="/a.dummy" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377200312495" ignored="false" />
     <file path="/views.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377200535322" ignored="false" />
     <file path="/requirements.txt" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377200647537" ignored="false" />
     <file path="/settings.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377200962463" ignored="false" />
-    <file path="/registration_form.html" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377200933410" ignored="false" />
-    <file path="/local_settings.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377201039335" ignored="false" />
+    <file path="/registration_form.html" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377202003823" ignored="false" />
+    <file path="/local_settings.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377201165254" ignored="false" />
+    <file path="$PROJECT_DIR$/twitter_mapping/local_settings.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377201165595" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,15 +48,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twitter/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="18" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter_mapping/urls.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,25 +60,25 @@
       <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter_mapping/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
+            <state line="3" column="13" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="local_settings.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="local_settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter_mapping/local_settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="41" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
+            <state line="1" column="12" selection-start="78" selection-end="78" vertical-scroll-proportion="-0.68">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registration_form.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="registration_form.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/registration/registration_form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="47" selection-start="77" selection-end="77" vertical-scroll-proportion="-1.9615384">
+            <state line="9" column="23" selection-start="259" selection-end="259" vertical-scroll-proportion="0.37408313">
               <folding />
             </state>
           </provider>
@@ -160,9 +154,9 @@
         <option value="$PROJECT_DIR$/templates/registration/registration_complete.html" />
         <option value="$PROJECT_DIR$/templates/registration/activate.html" />
         <option value="$PROJECT_DIR$/templates/registration/activation_complete.html" />
-        <option value="$PROJECT_DIR$/templates/registration/registration_form.html" />
         <option value="$PROJECT_DIR$/twitter_mapping/settings.py" />
         <option value="$PROJECT_DIR$/twitter_mapping/local_settings.py" />
+        <option value="$PROJECT_DIR$/templates/registration/registration_form.html" />
       </list>
     </option>
   </component>
@@ -254,6 +248,54 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="twitter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter_mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter_mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter_mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter_mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -299,6 +341,11 @@
     <option name="myDjangoConsoleState">
       <PyConsoleSettings />
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jemma\Documents\Projects\Maplecroft\twitter_mapping\twitter\static\twitter" />
+    </key>
   </component>
   <component name="RunManager" selected="Django server.twitter_mapping">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -435,6 +482,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" name="Default" comment="" />
+      <changelist id="29c30468-b850-4520-b108-8c78ba7f6be5" name="Never Commit" comment="" />
       <created>1377195754273</created>
       <updated>1377195754273</updated>
     </task>
@@ -442,7 +490,11 @@
       <created>1377200135601</created>
       <updated>1377200135601</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit of Base structure">
+      <created>1377201101342</created>
+      <updated>1377201101342</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -450,7 +502,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -594,23 +646,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/registration/registration_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="47" selection-start="77" selection-end="77" vertical-scroll-proportion="-1.9615384">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/twitter_mapping/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
+        <state line="3" column="13" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter_mapping/local_settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="41" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
+        <state line="1" column="12" selection-start="78" selection-end="78" vertical-scroll-proportion="-0.68">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/static/twitter/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.734597">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/static/twitter/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/registration_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="23" selection-start="259" selection-end="259" vertical-scroll-proportion="0.37408313">
           <folding />
         </state>
       </provider>
