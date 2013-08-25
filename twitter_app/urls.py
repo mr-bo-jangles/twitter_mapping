@@ -4,7 +4,7 @@ from django.conf.urls import patterns, include, url
 # from django.contrib import admin
 # admin.autodiscover()
 
-urlpatterns = patterns('',
+urlpatterns = patterns('twitter_app',
     # Examples:
     # url(r'^$', 'twitter_mapping.views.home', name='home'),
     # url(r'^twitter_mapping/', include('twitter_mapping.foo.urls')),
@@ -14,6 +14,6 @@ urlpatterns = patterns('',
 
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
-    (r'^accounts/', include('registration.backends.simple.urls')),
-    (r'^', include('twitter_app.urls'))
+    url(r'^$', 'views.index', name="index"),
+    url(r'^logout/$', 'views.logout_view', name='logout')
 )

@@ -1,5 +1,6 @@
 # Django settings for twitter_mapping project.
 import os
+from django.core.urlresolvers import reverse
 
 DEBUG = False
 TEMPLATE_DEBUG = DEBUG
@@ -121,10 +122,11 @@ INSTALLED_APPS = (
     # 'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
-    'twitter',
+    'twitter_app',
     'south',
     'django_extensions',
     'registration',
+    'crispy_forms',
 )
 
 # A sample logging configuration. The only tangible logging
@@ -155,7 +157,15 @@ LOGGING = {
         },
     }
 }
+
+CONSUMER_KEY = '8u6fsUyZTibFYn3JJcF5qg'
+CONSUMER_SECRET = 'P9GS0xTxM6BlTVPiRSEkKQpNDCHEiGj49s8mAB5TR9Y'
+ACCESS_TOKEN_KEY = '327274521-4XWTkKbi06Xacx57RptjuH71IGj2pewn9SWp9WMy'
+ACCESS_TOKEN_SECRET = 'iT0IUqvUNzfGFwLr5VLo2FbuqSk8TUTw0bACu0hCI'
+
 try:
     from local_settings import *  # Override settings in default with local requirements
 except ImportError:
     pass
+
+LOGIN_REDIRECT_URL = reverse('index')

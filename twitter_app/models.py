@@ -3,7 +3,6 @@ from django.db import models
 # Create your models here.
 from django_extensions.db.fields import UUIDField
 
-
 class Country(models.Model):
 
     """
@@ -17,3 +16,6 @@ class Country(models.Model):
     iso_alpha2 = models.CharField(max_length=2)
     latitude = models.FloatField()
     longitude = models.FloatField()
+
+    class Meta:
+        db_table='twitter_country'
