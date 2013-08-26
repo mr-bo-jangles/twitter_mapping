@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter_app/fixtures/country_data.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -11,7 +10,7 @@
     </list>
     <ignored path="twitter_mapping.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377523124807" ignored="false" />
+    <file path="/Dummy.txt" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377523670465" ignored="false" />
     <file path="/models.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377521324597" ignored="false" />
     <file path="/a.dummy" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377200312495" ignored="false" />
     <file path="/views.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377522996961" ignored="false" />
@@ -29,7 +28,7 @@
     <file path="/logout.html" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377433714379" ignored="false" />
     <file path="/user_details.html" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377522263569" ignored="false" />
     <file path="/forms.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377522026451" ignored="false" />
-    <file path="/README" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377523296622" ignored="false" />
+    <file path="/README" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377523958423" ignored="false" />
     <file path="/0002_load_country_data.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377523476998" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,19 +74,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="85" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
+            <state line="10" column="30" selection-start="551" selection-end="551" vertical-scroll-proportion="0.2643857">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0002_load_country_data.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="0002_load_country_data.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter_app/migrations/0002_load_country_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="44" selection-start="376" selection-end="376" vertical-scroll-proportion="0.41262135">
+            <state line="13" column="44" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -186,9 +185,9 @@
         <option value="$PROJECT_DIR$/twitter_app/templates/user_details.html" />
         <option value="$PROJECT_DIR$/twitter_app/views.py" />
         <option value="$PROJECT_DIR$/twitter_app/templates/index.html" />
-        <option value="$PROJECT_DIR$/README" />
         <option value="$PROJECT_DIR$/twitter_app/fixtures/country_data.json" />
         <option value="$PROJECT_DIR$/twitter_app/migrations/0002_load_country_data.py" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
@@ -503,7 +502,11 @@
       <created>1377523127624</created>
       <updated>1377523127624</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added migrations and fixtures to load data">
+      <created>1377523672670</created>
+      <updated>1377523672670</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -519,7 +522,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32859176" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -573,7 +576,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed duff templating, and made index require login/registration" />
+    <option name="LAST_COMMIT_MESSAGE" value="added migrations and fixtures to load data" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -592,6 +595,7 @@
     <MESSAGE value="Added twitter handling code, moved bootstrap stuff to CDN, added link between twitter code and registration code" />
     <MESSAGE value="Added profile form, which is redirected too on registration, added code to handle profiles." />
     <MESSAGE value="removed duff templating, and made index require login/registration" />
+    <MESSAGE value="added migrations and fixtures to load data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -683,13 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="85" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/twitter_app/templates/user_details.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="39" selection-start="950" selection-end="950" vertical-scroll-proportion="-14.192307">
@@ -706,7 +703,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter_app/migrations/0002_load_country_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="44" selection-start="376" selection-end="376" vertical-scroll-proportion="0.41262135">
+        <state line="13" column="44" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="30" selection-start="551" selection-end="551" vertical-scroll-proportion="0.2643857">
           <folding />
         </state>
       </provider>

@@ -1,3 +1,15 @@
-Welcome to Twitter Mapping, an application to map countries mentioned in tweets to countries and show them on a map.
+Welcome to Twitter Mapping, an application to map countries mentioned in tweets to countries
+and show them on a map.
 
 Twitter mapping has a few dependencies which are listed in the requirements.txt file.
+
+Twitter mapping also uses Django South, which allows us to version database schemas
+Data for the application such as Country data is stored in the fixtures folders under each app.
+
+=== Alterations for Specification ===
+Originally this application was supposed to show a specific twitter feed, but I have been forced
+to make the feed configurable.
+
+=== Bugs ===
+There is a bug on the index page that effects the profile and logout buttons where the page
+preview function binds web previews to them.
