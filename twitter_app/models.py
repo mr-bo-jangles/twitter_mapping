@@ -1,6 +1,8 @@
+from django.contrib.auth.models import User
 from django.db import models
 
 # Create your models here.
+from django.db.models import ForeignKey, CharField
 from django_extensions.db.fields import UUIDField
 
 class Country(models.Model):
@@ -19,3 +21,9 @@ class Country(models.Model):
 
     class Meta:
         db_table='twitter_country'
+
+class Profile(models.Model):
+
+    uuid = UUIDField(primary_key=True)
+    user = ForeignKey(User)
+    twitter_name = CharField(max_length=40)
