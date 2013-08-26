@@ -15,21 +15,23 @@ def logout_view(request):
     logout(request)
     return redirect(reverse('index'))
 
-
+@login_required
 def index(request):
+
+    # Set up Twitter API with our auth details
     api = Api(consumer_key=CONSUMER_KEY,
               consumer_secret=CONSUMER_SECRET,
               access_token_key=ACCESS_TOKEN_KEY,
               access_token_secret=ACCESS_TOKEN_SECRET)
     profile, _ = Profile.objects.get_or_create(user=request.user)
-    if profile.twitter_name is not '':
+    if profile.twitter_name is not '':  # If we had a profile and saved a twitter name, use it here or use our username
         user_id = profile.twitter_name
     else:
         user_id = request.user.username
     if request.method == "GET":
         if 'user' in request.GET:
             user_id = request.GET['user']
-    twitter = api.GetUserTimeline(screen_name=user_id, count=10)  # premature optimization atm would be to cache request to twitter
+    twitter = api.GetUserTimeline(screen_name=user_id, count=10)
     twitter_user = api.GetUser(screen_name=user_id)
     country_list = Country.objects.values('name', 'longitude', 'latitude')
     for tweet in twitter:  # this is horribly slow atm, could speed this up if I thought about it harder.

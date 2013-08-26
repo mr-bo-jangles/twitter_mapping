@@ -28,88 +28,64 @@
                 {% endif %}
             </div>
         </div>
-        {% if user.is_authenticated %}
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4>Latest Tweets From {{ twitter_user.name }}</h4>
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4>Latest Tweets From {{ twitter_user.name }}</h4>
+                    </div>
+
+                    <div class="panel-body">
+                        <div class="user-select">
+                            <form method="get" action="#">
+                                <div class="input-group">
+                                    <span class="input-group-addon">@</span>
+                                    <input type="text" class="form-control" name="user"
+                                           placeholder="Enter A Twitter Username">
+                                </div>
+                            </form>
                         </div>
+                        <br>
 
-                        <div class="panel-body">
-                            <div class="user-select">
-                                <form method="get" action="#">
-                                    <div class="input-group">
-                                        <span class="input-group-addon">@</span>
-                                        <input type="text" class="form-control" name="user"
-                                               placeholder="Enter A Twitter Username">
-                                    </div>
-                                </form>
-                            </div>
-                            <br>
+                        <div class="tweets">
+                            {% for tweet in twitter %}
+                                <div class="tweet well well-sm">
+                                    <div class="container">
+                                        <div class="row">
+                                            <p>{{ tweet.text|safe|urlize }}</p>
+                                        </div>
 
-                            <div class="tweets">
-                                {% for tweet in twitter %}
-                                    <div class="tweet well well-sm">
-                                        <div class="container">
+                                        {% if tweet.country %}
                                             <div class="row">
-                                                <p>{{ tweet.text|safe|urlize }}</p>
-                                            </div>
-
-                                            {% if tweet.country %}
-                                                <div class="row">
-                                                    <div class="col-lg-6">
-                                                        <p class="text-muted">{{ tweet.country.name }}</p>
-                                                    </div>
-                                                    <div class="col-lg-6">
+                                                <div class="col-lg-6">
+                                                    <p class="text-muted">{{ tweet.country.name }}</p>
+                                                </div>
+                                                <div class="col-lg-6">
                                                     <input id="map_btn_{{ tweet.id }}"
                                                            class="btn btn-info js-mapbtn"
                                                            onclick="show_tweet('{{ tweet.country.latitude }}', '{{ tweet.country.longitude }}', 'map_btn_{{ tweet.id }}')"
                                                            value="Show Country on Map">
-                                                    </div>
                                                 </div>
-                                            {% endif %}
-                                            <div class="row">
-                                                <p class="text-muted">Tweeted at: {{ tweet.created_at|naturaltime }}</p>
                                             </div>
+                                        {% endif %}
+                                        <div class="row">
+                                            <p class="text-muted">Tweeted at: {{ tweet.created_at|naturaltime }}</p>
                                         </div>
                                     </div>
-                                {% endfor %}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-lg-offset-1">
-                    <div class="panel panel-default">
-                        <div class="panel-body">
-                            <div id="js-map" style="min-height: 300px;height:100%"></div>
+                                </div>
+                            {% endfor %}
                         </div>
                     </div>
                 </div>
             </div>
-        {% else %}
-            <div class="col-lg-10 col-lg-offset-1">
-                <div class="well well-lg">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-12 text-center">
-                                <h2>Login or Register to Continue</h2>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-4 col-lg-offset-4 text-center">
-                                <a href="{% url 'auth_login' %}"><input type="button" class="btn btn-success"
-                                                                        value="Login"
-                                                                        style="margin:auto;margin-top: 20px;"></a>
-                                <a href="{% url 'registration_register' %}"><input type="button" class="btn btn-default"
-                                                                                   value="Register"
-                                                                                   style="margin:auto;margin-top: 20px;"></a>
-                            </div>
-                        </div>
+            <div class="col-lg-6 col-lg-offset-1">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div id="js-map" style="min-height: 300px;height:100%"></div>
                     </div>
                 </div>
             </div>
-        {% endif %}
+        </div>
     </div>
 {% endblock %}
 
