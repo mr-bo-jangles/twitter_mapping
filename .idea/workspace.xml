@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter_app/templates/index.html" afterPath="$PROJECT_DIR$/twitter_app/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter_app/views.py" afterPath="$PROJECT_DIR$/twitter_app/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter_app/fixtures/country_data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="29c30468-b850-4520-b108-8c78ba7f6be5" name="Never Commit" comment="">
@@ -11,7 +11,7 @@
     </list>
     <ignored path="twitter_mapping.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377522784139" ignored="false" />
+    <file path="/Dummy.txt" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377523124807" ignored="false" />
     <file path="/models.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377521324597" ignored="false" />
     <file path="/a.dummy" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377200312495" ignored="false" />
     <file path="/views.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377522996961" ignored="false" />
@@ -29,6 +29,8 @@
     <file path="/logout.html" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377433714379" ignored="false" />
     <file path="/user_details.html" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377522263569" ignored="false" />
     <file path="/forms.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377522026451" ignored="false" />
+    <file path="/README" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377523296622" ignored="false" />
+    <file path="/0002_load_country_data.py" changelist="aa0f70f6-9edc-4af8-b4d1-32785f55d38a" time="1377523476998" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +75,33 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="85" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0002_load_country_data.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/twitter_app/migrations/0002_load_country_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="44" selection-start="376" selection-end="376" vertical-scroll-proportion="0.41262135">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="country_data.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twitter_app/fixtures/country_data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="34" selection-start="156" selection-end="156" vertical-scroll-proportion="-1.6666666">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter_app/models.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,10 +113,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter_app/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="10" selection-start="4202" selection-end="4202" vertical-scroll-proportion="0.38230884">
+            <state line="88" column="10" selection-start="4202" selection-end="4202" vertical-scroll-proportion="-57.53846">
               <folding>
                 <element signature="e#640#677#0" expanded="true" />
                 <element signature="e#1016#1053#0" expanded="true" />
@@ -104,15 +133,6 @@
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../virtualenv/Lib/site-packages/django/contrib/auth/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="369" column="6" selection-start="12933" selection-end="12933" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -153,9 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/twitter/views.py" />
-        <option value="$PROJECT_DIR$/twitter_mapping/local_settings.py" />
-        <option value="dbtable:/a0df9d6e/99554d68-d0d8-4674-8d8f-be4dd28df184/..twitter_country" />
         <option value="db-console:/a0df9d6e/99554d68-d0d8-4674-8d8f-be4dd28df184/" />
         <option value="$PROJECT_DIR$/countries (2).csv" />
         <option value="$PROJECT_DIR$/twitter_app/urls.py" />
@@ -169,14 +186,16 @@
         <option value="$PROJECT_DIR$/twitter_app/templates/user_details.html" />
         <option value="$PROJECT_DIR$/twitter_app/views.py" />
         <option value="$PROJECT_DIR$/twitter_app/templates/index.html" />
+        <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/twitter_app/fixtures/country_data.json" />
+        <option value="$PROJECT_DIR$/twitter_app/migrations/0002_load_country_data.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1612" />
-    <option name="height" value="876" />
+    <option name="x" value="800" />
+    <option name="width" value="800" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -232,20 +251,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_mapping" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_mapping" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_mapping" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="twitter_app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -264,7 +269,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="migrations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,39 +287,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_mapping" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_mapping" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="registration" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_mapping" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_mapping" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
+              <option name="myItemId" value="fixtures" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -526,11 +499,15 @@
       <created>1377522787329</created>
       <updated>1377522787329</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="removed duff templating, and made index require login/registration">
+      <created>1377523127624</created>
+      <updated>1377523127624</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
+    <frame x="800" y="0" width="800" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -538,11 +515,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.6703755" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5677507" sideWeight="0.6638298" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6693767" sideWeight="0.67140824" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32859176" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -596,7 +573,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added profile form, which is redirected too on registration, added code to handle profiles." />
+    <option name="LAST_COMMIT_MESSAGE" value="removed duff templating, and made index require login/registration" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -614,6 +591,7 @@
     <MESSAGE value="Start of registration + add first static files" />
     <MESSAGE value="Added twitter handling code, moved bootstrap stuff to CDN, added link between twitter code and registration code" />
     <MESSAGE value="Added profile form, which is redirected too on registration, added code to handle profiles." />
+    <MESSAGE value="removed duff templating, and made index require login/registration" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -621,23 +599,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/registration/registration_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="85" selection-start="935" selection-end="935" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../virtualenv/Lib/site-packages/registration/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../virtualenv/Lib/site-packages/registration/backends/default/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="54" selection-start="1720" selection-end="1741" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../virtualenv/Lib/site-packages/registration/auth_urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -702,10 +663,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_app/templates/user_details.html">
+    <entry file="file://$PROJECT_DIR$/twitter_app/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="39" selection-start="950" selection-end="950" vertical-scroll-proportion="-14.192307">
-          <folding />
+        <state line="88" column="10" selection-start="4202" selection-end="4202" vertical-scroll-proportion="-57.53846">
+          <folding>
+            <element signature="e#640#677#0" expanded="true" />
+            <element signature="e#1016#1053#0" expanded="true" />
+            <element signature="e#4063#4100#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -718,14 +683,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_app/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="10" selection-start="4202" selection-end="4202" vertical-scroll-proportion="0.38230884">
-          <folding>
-            <element signature="e#640#677#0" expanded="true" />
-            <element signature="e#1016#1053#0" expanded="true" />
-            <element signature="e#4063#4100#0" expanded="true" />
-          </folding>
+        <state line="2" column="85" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter_app/templates/user_details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="39" selection-start="950" selection-end="950" vertical-scroll-proportion="-14.192307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter_app/fixtures/country_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="34" selection-start="156" selection-end="156" vertical-scroll-proportion="-1.6666666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter_app/migrations/0002_load_country_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="44" selection-start="376" selection-end="376" vertical-scroll-proportion="0.41262135">
+          <folding />
         </state>
       </provider>
     </entry>

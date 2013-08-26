@@ -1,0 +1,2422 @@
+[
+    {
+        "pk": "8bef74e1-0cca-11e3-843b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 33.857576,
+            "longitude": 65.405957,
+            "name": "Afghanistan",
+            "iso_alpha2": "AF"
+        }
+    },
+    {
+        "pk": "8bfc9440-0cca-11e3-ad40-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 60.181973,
+            "longitude": 19.928094,
+            "name": "\u00c5land Islands",
+            "iso_alpha2": "AX"
+        }
+    },
+    {
+        "pk": "8c098c8f-0cca-11e3-b0a4-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 41.073946,
+            "longitude": 20.167044,
+            "name": "Albania",
+            "iso_alpha2": "AL"
+        }
+    },
+    {
+        "pk": "8c15c18f-0cca-11e3-9b2c-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 28.306545,
+            "longitude": 2.833718,
+            "name": "Algeria",
+            "iso_alpha2": "DZ"
+        }
+    },
+    {
+        "pk": "8c22b9e1-0cca-11e3-b9c6-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -14.290577,
+            "longitude": -170.704216,
+            "name": "American Samoa",
+            "iso_alpha2": "AS"
+        }
+    },
+    {
+        "pk": "8c2eeede-0cca-11e3-b5a1-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 42.566242,
+            "longitude": 1.565241,
+            "name": "Andorra",
+            "iso_alpha2": "AD"
+        }
+    },
+    {
+        "pk": "8c3c836e-0cca-11e3-9f64-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -12.735148,
+            "longitude": 17.906823,
+            "name": "Angola",
+            "iso_alpha2": "AO"
+        }
+    },
+    {
+        "pk": "8c49c9e1-0cca-11e3-839b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 18.202876,
+            "longitude": -63.068054,
+            "name": "Anguilla",
+            "iso_alpha2": "AI"
+        }
+    },
+    {
+        "pk": "8c58e50f-0cca-11e3-bc86-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -80.724249,
+            "longitude": -1.5e-05,
+            "name": "Antarctica",
+            "iso_alpha2": "AQ"
+        }
+    },
+    {
+        "pk": "8c647dcf-0cca-11e3-a2fd-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 17.079048,
+            "longitude": -61.789722,
+            "name": "Antigua and Barbuda",
+            "iso_alpha2": "AG"
+        }
+    },
+    {
+        "pk": "8c703d9e-0cca-11e3-8c14-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -34.845871,
+            "longitude": -64.020545,
+            "name": "Argentina",
+            "iso_alpha2": "AR"
+        }
+    },
+    {
+        "pk": "8c7f7fe1-0cca-11e3-af99-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 40.481527,
+            "longitude": 45.039907,
+            "name": "Armenia",
+            "iso_alpha2": "AM"
+        }
+    },
+    {
+        "pk": "8c8e9b0f-0cca-11e3-9681-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 12.507346,
+            "longitude": -69.965416,
+            "name": "Aruba",
+            "iso_alpha2": "AW"
+        }
+    },
+    {
+        "pk": "8c9c0891-0cca-11e3-a20e-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -25.240288,
+            "longitude": 132.681609,
+            "name": "Australia",
+            "iso_alpha2": "AU"
+        }
+    },
+    {
+        "pk": "8cacd170-0cca-11e3-85a5-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 47.509596,
+            "longitude": 14.954346,
+            "name": "Austria",
+            "iso_alpha2": "AT"
+        }
+    },
+    {
+        "pk": "8cb9c9c0-0cca-11e3-9feb-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 40.323068,
+            "longitude": 48.817559,
+            "name": "Azerbaijan",
+            "iso_alpha2": "AZ"
+        }
+    },
+    {
+        "pk": "8cc73740-0cca-11e3-be46-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 24.748204,
+            "longitude": -78.088333,
+            "name": "Bahamas",
+            "iso_alpha2": "BS"
+        }
+    },
+    {
+        "pk": "8cd95fb0-0cca-11e3-a2c3-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 26.04714,
+            "longitude": 50.539228,
+            "name": "Bahrain",
+            "iso_alpha2": "BH"
+        }
+    },
+    {
+        "pk": "8ce71b4f-0cca-11e3-aed2-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 23.944926,
+            "longitude": 89.9983,
+            "name": "Bangladesh",
+            "iso_alpha2": "BD"
+        }
+    },
+    {
+        "pk": "8cf43aae-0cca-11e3-96d4-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 13.139966,
+            "longitude": -59.534721,
+            "name": "Barbados",
+            "iso_alpha2": "BB"
+        }
+    },
+    {
+        "pk": "8d01f651-0cca-11e3-a84e-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 53.839015,
+            "longitude": 27.992041,
+            "name": "Belarus",
+            "iso_alpha2": "BY"
+        }
+    },
+    {
+        "pk": "8d109c4f-0cca-11e3-8488-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 50.656897,
+            "longitude": 4.650246,
+            "name": "Belgium",
+            "iso_alpha2": "BE"
+        }
+    },
+    {
+        "pk": "8d1cd14f-0cca-11e3-8724-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 16.950968,
+            "longitude": -88.668806,
+            "name": "Belize",
+            "iso_alpha2": "BZ"
+        }
+    },
+    {
+        "pk": "8d2c1391-0cca-11e3-ac4f-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 9.642487,
+            "longitude": 2.31134,
+            "name": "Benin",
+            "iso_alpha2": "BJ"
+        }
+    },
+    {
+        "pk": "8d3b7cde-0cca-11e3-a141-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 32.296,
+            "longitude": -64.768612,
+            "name": "Bermuda",
+            "iso_alpha2": "BM"
+        }
+    },
+    {
+        "pk": "8d5b12cf-0cca-11e3-9b14-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 27.565477,
+            "longitude": 90.434677,
+            "name": "Bhutan",
+            "iso_alpha2": "BT"
+        }
+    },
+    {
+        "pk": "8d66d2a1-0cca-11e3-bea0-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -17.1493,
+            "longitude": -64.827961,
+            "name": "Bolivia",
+            "iso_alpha2": "BO"
+        }
+    },
+    {
+        "pk": "8d75c6c0-0cca-11e3-9950-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 44.100478,
+            "longitude": 17.782027,
+            "name": "Bosnia-Herzegovina",
+            "iso_alpha2": "BA"
+        }
+    },
+    {
+        "pk": "8d8704cf-0cca-11e3-8702-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -22.205602,
+            "longitude": 24.081652,
+            "name": "Botswana",
+            "iso_alpha2": "BW"
+        }
+    },
+    {
+        "pk": "8d977f91-0cca-11e3-aa48-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -54.4272,
+            "longitude": 3.386521,
+            "name": "Bouvet Island",
+            "iso_alpha2": "BV"
+        }
+    },
+    {
+        "pk": "8da4ed0f-0cca-11e3-9508-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -10.669624,
+            "longitude": -50.718755,
+            "name": "Brazil",
+            "iso_alpha2": "BR"
+        }
+    },
+    {
+        "pk": "8db25a8f-0cca-11e3-b9bb-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -7.297742,
+            "longitude": 72.393608,
+            "name": "British Indian Ocean Territory",
+            "iso_alpha2": "IO"
+        }
+    },
+    {
+        "pk": "8dc175c0-0cca-11e3-a5bc-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 18.424222,
+            "longitude": -64.635521,
+            "name": "British Virgin Islands",
+            "iso_alpha2": "VG"
+        }
+    },
+    {
+        "pk": "8dd23ea1-0cca-11e3-8909-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 4.552962,
+            "longitude": 114.586289,
+            "name": "Brunei",
+            "iso_alpha2": "BN"
+        }
+    },
+    {
+        "pk": "8de4b52e-0cca-11e3-9ade-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 42.46952,
+            "longitude": 25.474264,
+            "name": "Bulgaria",
+            "iso_alpha2": "BG"
+        }
+    },
+    {
+        "pk": "8df222b0-0cca-11e3-885e-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 12.874097,
+            "longitude": -1.556417,
+            "name": "Burkina Faso",
+            "iso_alpha2": "BF"
+        }
+    },
+    {
+        "pk": "8e06950f-0cca-11e3-95a3-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -3.507455,
+            "longitude": 29.924865,
+            "name": "Burundi",
+            "iso_alpha2": "BI"
+        }
+    },
+    {
+        "pk": "8e2e8f70-0cca-11e3-8cce-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 12.518457,
+            "longitude": 104.98444,
+            "name": "Cambodia",
+            "iso_alpha2": "KH"
+        }
+    },
+    {
+        "pk": "8e3daaa1-0cca-11e3-b85a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 4.878834,
+            "longitude": 12.022101,
+            "name": "Cameroon",
+            "iso_alpha2": "CM"
+        }
+    },
+    {
+        "pk": "8e4b181e-0cca-11e3-b0bf-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 56.713167,
+            "longitude": -105.867783,
+            "name": "Canada",
+            "iso_alpha2": "CA"
+        }
+    },
+    {
+        "pk": "8e58859e-0cca-11e3-b690-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 15.061908,
+            "longitude": -23.605139,
+            "name": "Cape Verde",
+            "iso_alpha2": "CV"
+        }
+    },
+    {
+        "pk": "8e775840-0cca-11e3-a7a8-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 19.317449,
+            "longitude": -81.254028,
+            "name": "Cayman Islands",
+            "iso_alpha2": "KY"
+        }
+    },
+    {
+        "pk": "8e8cb500-0cca-11e3-876c-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 6.592458,
+            "longitude": 20.321733,
+            "name": "Central African Republic",
+            "iso_alpha2": "CF"
+        }
+    },
+    {
+        "pk": "8e9f79ae-0cca-11e3-9f06-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 15.198385,
+            "longitude": 18.739553,
+            "name": "Chad",
+            "iso_alpha2": "TD"
+        }
+    },
+    {
+        "pk": "8eaee300-0cca-11e3-b810-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -35.040057,
+            "longitude": -71.593827,
+            "name": "Chile",
+            "iso_alpha2": "CL"
+        }
+    },
+    {
+        "pk": "8ebf0f9e-0cca-11e3-af6f-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 34.911287,
+            "longitude": 101.672664,
+            "name": "China",
+            "iso_alpha2": "CN"
+        }
+    },
+    {
+        "pk": "8ed1d44f-0cca-11e3-adf2-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -10.488784,
+            "longitude": 105.622917,
+            "name": "Christmas Island",
+            "iso_alpha2": "CX"
+        }
+    },
+    {
+        "pk": "8ee27621-0cca-11e3-9ecb-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -12.160214,
+            "longitude": 96.825138,
+            "name": "Cocos (Keeling) Islands",
+            "iso_alpha2": "CC"
+        }
+    },
+    {
+        "pk": "8ef513c0-0cca-11e3-8252-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 3.748502,
+            "longitude": -72.981741,
+            "name": "Colombia",
+            "iso_alpha2": "CO"
+        }
+    },
+    {
+        "pk": "8f03e0d1-0cca-11e3-8c8b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -11.614053,
+            "longitude": 43.373333,
+            "name": "Comoros",
+            "iso_alpha2": "KM"
+        }
+    },
+    {
+        "pk": "8f14a9b0-0cca-11e3-a360-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -0.865656,
+            "longitude": 15.866009,
+            "name": "Congo",
+            "iso_alpha2": "CG"
+        }
+    },
+    {
+        "pk": "8f221730-0cca-11e3-850b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -21.234104,
+            "longitude": -159.777611,
+            "name": "Cook Islands",
+            "iso_alpha2": "CK"
+        }
+    },
+    {
+        "pk": "8f39bde1-0cca-11e3-9292-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 10.178781,
+            "longitude": -84.247883,
+            "name": "Costa Rica",
+            "iso_alpha2": "CR"
+        }
+    },
+    {
+        "pk": "8f4a86c0-0cca-11e3-9be5-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 7.767781,
+            "longitude": -5.545394,
+            "name": "C\u00f4te d'Ivoire",
+            "iso_alpha2": "CI"
+        }
+    },
+    {
+        "pk": "8f597ade-0cca-11e3-8510-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 45.734268,
+            "longitude": 16.425848,
+            "name": "Croatia",
+            "iso_alpha2": "HR"
+        }
+    },
+    {
+        "pk": "8f71218f-0cca-11e3-b4ec-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 22.098874,
+            "longitude": -79.542362,
+            "name": "Cuba",
+            "iso_alpha2": "CU"
+        }
+    },
+    {
+        "pk": "8f8a27cf-0cca-11e3-8c43-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 35.050217,
+            "longitude": 33.430973,
+            "name": "Cyprus",
+            "iso_alpha2": "CY"
+        }
+    },
+    {
+        "pk": "8f9cc570-0cca-11e3-958a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 49.86907,
+            "longitude": 15.474141,
+            "name": "Czech Republic",
+            "iso_alpha2": "CZ"
+        }
+    },
+    {
+        "pk": "8fa9bdc0-0cca-11e3-8172-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 56.31595,
+            "longitude": 9.127092,
+            "name": "Denmark",
+            "iso_alpha2": "DK"
+        }
+    },
+    {
+        "pk": "8fb7795e-0cca-11e3-a910-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 12.030726,
+            "longitude": 42.648794,
+            "name": "Djibouti",
+            "iso_alpha2": "DJ"
+        }
+    },
+    {
+        "pk": "8fc6948f-0cca-11e3-be2a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 15.402262,
+            "longitude": -61.359583,
+            "name": "Dominica",
+            "iso_alpha2": "DM"
+        }
+    },
+    {
+        "pk": "8fd7d2a1-0cca-11e3-b631-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 18.927187,
+            "longitude": -70.164093,
+            "name": "Dominican Republic",
+            "iso_alpha2": "DO"
+        }
+    },
+    {
+        "pk": "8fe69fae-0cca-11e3-8afb-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -2.552264,
+            "longitude": 22.466336,
+            "name": "DR Congo",
+            "iso_alpha2": "CD"
+        }
+    },
+    {
+        "pk": "8ff40d30-0cca-11e3-ba28-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -1.173085,
+            "longitude": -78.106758,
+            "name": "Ecuador",
+            "iso_alpha2": "EC"
+        }
+    },
+    {
+        "pk": "90017ab0-0cca-11e3-8529-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 26.541764,
+            "longitude": 29.59237,
+            "name": "Egypt",
+            "iso_alpha2": "EG"
+        }
+    },
+    {
+        "pk": "900e7300-0cca-11e3-a20e-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 13.752526,
+            "longitude": -88.913036,
+            "name": "El Salvador",
+            "iso_alpha2": "SV"
+        }
+    },
+    {
+        "pk": "901b9261-0cca-11e3-8f77-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 1.585629,
+            "longitude": 10.337738,
+            "name": "Equatorial Guinea",
+            "iso_alpha2": "GQ"
+        }
+    },
+    {
+        "pk": "9032eaee-0cca-11e3-95e6-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 15.672989,
+            "longitude": 38.190323,
+            "name": "Eritrea",
+            "iso_alpha2": "ER"
+        }
+    },
+    {
+        "pk": "9040cda1-0cca-11e3-bdc7-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 58.724989,
+            "longitude": 25.807683,
+            "name": "Estonia",
+            "iso_alpha2": "EE"
+        }
+    },
+    {
+        "pk": "904c8d6e-0cca-11e3-be1a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 8.672154,
+            "longitude": 39.552528,
+            "name": "Ethiopia",
+            "iso_alpha2": "ET"
+        }
+    },
+    {
+        "pk": "907ac95e-0cca-11e3-b451-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 62.07382,
+            "longitude": -6.922158,
+            "name": "Faeroe Islands",
+            "iso_alpha2": "FO"
+        }
+    },
+    {
+        "pk": "90999c00-0cca-11e3-bf4e-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -52.009547,
+            "longitude": -58.72279,
+            "name": "Falkland Islands",
+            "iso_alpha2": "FK"
+        }
+    },
+    {
+        "pk": "90a95370-0cca-11e3-9bf6-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -17.832146,
+            "longitude": 177.970795,
+            "name": "Fiji",
+            "iso_alpha2": "FJ"
+        }
+    },
+    {
+        "pk": "90b6e800-0cca-11e3-a29c-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 64.542491,
+            "longitude": 27.07574,
+            "name": "Finland",
+            "iso_alpha2": "FI"
+        }
+    },
+    {
+        "pk": "90c259b0-0cca-11e3-b436-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 46.652744,
+            "longitude": 2.526276,
+            "name": "France",
+            "iso_alpha2": "FR"
+        }
+    },
+    {
+        "pk": "90d126c0-0cca-11e3-8172-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 3.840682,
+            "longitude": -53.072741,
+            "name": "French Guiana",
+            "iso_alpha2": "GF"
+        }
+    },
+    {
+        "pk": "90df0970-0cca-11e3-b2a4-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -17.649249,
+            "longitude": -149.372101,
+            "name": "French Polynesia",
+            "iso_alpha2": "PF"
+        }
+    },
+    {
+        "pk": "90ebdab0-0cca-11e3-a515-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -49.604819,
+            "longitude": 69.643196,
+            "name": "French Southern Territories",
+            "iso_alpha2": "TF"
+        }
+    },
+    {
+        "pk": "90f9e470-0cca-11e3-b231-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -0.637704,
+            "longitude": 11.723553,
+            "name": "Gabon",
+            "iso_alpha2": "GA"
+        }
+    },
+    {
+        "pk": "9106b5b0-0cca-11e3-89aa-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 13.567588,
+            "longitude": -15.306147,
+            "name": "Gambia",
+            "iso_alpha2": "GM"
+        }
+    },
+    {
+        "pk": "9116e24f-0cca-11e3-90c1-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 42.046139,
+            "longitude": 43.366489,
+            "name": "Georgia",
+            "iso_alpha2": "GE"
+        }
+    },
+    {
+        "pk": "91258851-0cca-11e3-8914-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 51.072772,
+            "longitude": 10.56446,
+            "name": "Germany",
+            "iso_alpha2": "DE"
+        }
+    },
+    {
+        "pk": "9132f5cf-0cca-11e3-b653-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 8.100366,
+            "longitude": -1.031576,
+            "name": "Ghana",
+            "iso_alpha2": "GH"
+        }
+    },
+    {
+        "pk": "91408a5e-0cca-11e3-9322-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 36.139042,
+            "longitude": -5.352221,
+            "name": "Gibraltar",
+            "iso_alpha2": "GI"
+        }
+    },
+    {
+        "pk": "914c4a30-0cca-11e3-a858-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 39.344146,
+            "longitude": 21.665583,
+            "name": "Greece",
+            "iso_alpha2": "GR"
+        }
+    },
+    {
+        "pk": "915bb380-0cca-11e3-8663-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 75.063812,
+            "longitude": -41.397793,
+            "name": "Greenland",
+            "iso_alpha2": "GL"
+        }
+    },
+    {
+        "pk": "916a5980-0cca-11e3-b323-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 12.106932,
+            "longitude": -61.702499,
+            "name": "Grenada",
+            "iso_alpha2": "GD"
+        }
+    },
+    {
+        "pk": "9177ee0f-0cca-11e3-8025-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 16.27871,
+            "longitude": -61.50032,
+            "name": "Guadeloupe",
+            "iso_alpha2": "GP"
+        }
+    },
+    {
+        "pk": "9186e230-0cca-11e3-8960-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 13.413238,
+            "longitude": 144.787468,
+            "name": "Guam",
+            "iso_alpha2": "GU"
+        }
+    },
+    {
+        "pk": "9197d21e-0cca-11e3-9d86-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 15.472341,
+            "longitude": -90.101225,
+            "name": "Guatemala",
+            "iso_alpha2": "GT"
+        }
+    },
+    {
+        "pk": "91a8e91e-0cca-11e3-ab54-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -2.57974,
+            "longitude": 49.454624,
+            "name": "Guernsey",
+            "iso_alpha2": "GG"
+        }
+    },
+    {
+        "pk": "91b7b630-0cca-11e3-8b28-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 10.811221,
+            "longitude": -10.531936,
+            "name": "Guinea",
+            "iso_alpha2": "GN"
+        }
+    },
+    {
+        "pk": "91c523b0-0cca-11e3-bb00-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 12.130467,
+            "longitude": -15.012039,
+            "name": "Guinea-Bissau",
+            "iso_alpha2": "GW"
+        }
+    },
+    {
+        "pk": "91d7e85e-0cca-11e3-a099-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 4.560761,
+            "longitude": -58.933485,
+            "name": "Guyana",
+            "iso_alpha2": "GY"
+        }
+    },
+    {
+        "pk": "91e7edf0-0cca-11e3-9f89-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 19.094612,
+            "longitude": -72.244345,
+            "name": "Haiti",
+            "iso_alpha2": "HT"
+        }
+    },
+    {
+        "pk": "91fc1230-0cca-11e3-9311-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -53.107199,
+            "longitude": 73.568375,
+            "name": "Heard Island and McDonald Islands",
+            "iso_alpha2": "HM"
+        }
+    },
+    {
+        "pk": "920efdf0-0cca-11e3-8db8-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 14.790327,
+            "longitude": -86.861035,
+            "name": "Honduras",
+            "iso_alpha2": "HN"
+        }
+    },
+    {
+        "pk": "921e1921-0cca-11e3-adb9-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 22.433905,
+            "longitude": 114.15361,
+            "name": "Hong Kong (China)",
+            "iso_alpha2": "HK"
+        }
+    },
+    {
+        "pk": "922b86a1-0cca-11e3-8fec-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 46.987875,
+            "longitude": 19.412288,
+            "name": "Hungary",
+            "iso_alpha2": "HU"
+        }
+    },
+    {
+        "pk": "923a53b0-0cca-11e3-a3d5-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 64.792282,
+            "longitude": -19.021165,
+            "name": "Iceland",
+            "iso_alpha2": "IS"
+        }
+    },
+    {
+        "pk": "92483661-0cca-11e3-b447-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 23.078953,
+            "longitude": 79.685401,
+            "name": "India",
+            "iso_alpha2": "IN"
+        }
+    },
+    {
+        "pk": "9256b551-0cca-11e3-8c54-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -0.992572,
+            "longitude": 113.9142,
+            "name": "Indonesia",
+            "iso_alpha2": "ID"
+        }
+    },
+    {
+        "pk": "92649800-0cca-11e3-9b4a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 32.529944,
+            "longitude": 54.209251,
+            "name": "Iran",
+            "iso_alpha2": "IR"
+        }
+    },
+    {
+        "pk": "9273b32e-0cca-11e3-a88b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 32.950527,
+            "longitude": 43.106534,
+            "name": "Iraq",
+            "iso_alpha2": "IQ"
+        }
+    },
+    {
+        "pk": "928120b0-0cca-11e3-b997-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 53.198518,
+            "longitude": -7.620574,
+            "name": "Ireland",
+            "iso_alpha2": "IE"
+        }
+    },
+    {
+        "pk": "92903bde-0cca-11e3-bf52-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 31.05341,
+            "longitude": 34.823631,
+            "name": "Israel",
+            "iso_alpha2": "IL"
+        }
+    },
+    {
+        "pk": "929da961-0cca-11e3-83d4-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 42.790379,
+            "longitude": 12.574767,
+            "name": "Italy",
+            "iso_alpha2": "IT"
+        }
+    },
+    {
+        "pk": "92b09521-0cca-11e3-8c5f-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 18.119141,
+            "longitude": -77.275417,
+            "name": "Jamaica",
+            "iso_alpha2": "JM"
+        }
+    },
+    {
+        "pk": "92c10fe1-0cca-11e3-b418-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 35.864585,
+            "longitude": 138.006502,
+            "name": "Japan",
+            "iso_alpha2": "JP"
+        }
+    },
+    {
+        "pk": "92da161e-0cca-11e3-9bf8-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 31.227565,
+            "longitude": 36.341074,
+            "name": "Jordan",
+            "iso_alpha2": "JO"
+        }
+    },
+    {
+        "pk": "92ea1bae-0cca-11e3-9c62-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 47.983247,
+            "longitude": 70.835888,
+            "name": "Kazakhstan",
+            "iso_alpha2": "KZ"
+        }
+    },
+    {
+        "pk": "92f8738f-0cca-11e3-a7ae-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 0.015228,
+            "longitude": 37.900259,
+            "name": "Kenya",
+            "iso_alpha2": "KE"
+        }
+    },
+    {
+        "pk": "9307dce1-0cca-11e3-a947-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 1.883803,
+            "longitude": -157.363083,
+            "name": "Kiribati",
+            "iso_alpha2": "KI"
+        }
+    },
+    {
+        "pk": "9318579e-0cca-11e3-bbbe-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 29.526415,
+            "longitude": 47.489876,
+            "name": "Kuwait",
+            "iso_alpha2": "KW"
+        }
+    },
+    {
+        "pk": "9325c51e-0cca-11e3-82b4-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 41.672041,
+            "longitude": 74.779613,
+            "name": "Kyrgyzstan",
+            "iso_alpha2": "KG"
+        }
+    },
+    {
+        "pk": "933889d1-0cca-11e3-a070-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 19.483526,
+            "longitude": 102.471208,
+            "name": "Laos",
+            "iso_alpha2": "LA"
+        }
+    },
+    {
+        "pk": "934b005e-0cca-11e3-b296-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 56.757998,
+            "longitude": 25.71764,
+            "name": "Latvia",
+            "iso_alpha2": "LV"
+        }
+    },
+    {
+        "pk": "9359cd70-0cca-11e3-a53f-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 33.938779,
+            "longitude": 35.871021,
+            "name": "Lebanon",
+            "iso_alpha2": "LB"
+        }
+    },
+    {
+        "pk": "9368e8a1-0cca-11e3-bf3e-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -29.42951,
+            "longitude": 28.214457,
+            "name": "Lesotho",
+            "iso_alpha2": "LS"
+        }
+    },
+    {
+        "pk": "93778e9e-0cca-11e3-a78b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 6.344303,
+            "longitude": -9.425404,
+            "name": "Liberia",
+            "iso_alpha2": "LR"
+        }
+    },
+    {
+        "pk": "9384fc21-0cca-11e3-a46a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 26.976362,
+            "longitude": 17.26978,
+            "name": "Libya",
+            "iso_alpha2": "LY"
+        }
+    },
+    {
+        "pk": "9394da9e-0cca-11e3-9051-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 47.155791,
+            "longitude": 9.555717,
+            "name": "Liechtenstein",
+            "iso_alpha2": "LI"
+        }
+    },
+    {
+        "pk": "93a1fa00-0cca-11e3-8f13-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 55.147529,
+            "longitude": 23.683785,
+            "name": "Lithuania",
+            "iso_alpha2": "LT"
+        }
+    },
+    {
+        "pk": "93b11530-0cca-11e3-969f-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 49.737982,
+            "longitude": 6.136196,
+            "name": "Luxembourg",
+            "iso_alpha2": "LU"
+        }
+    },
+    {
+        "pk": "93bea9c0-0cca-11e3-9683-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 22.122292,
+            "longitude": 113.567223,
+            "name": "Macao (China)",
+            "iso_alpha2": "MO"
+        }
+    },
+    {
+        "pk": "93cd76cf-0cca-11e3-9360-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 41.590729,
+            "longitude": 21.73095,
+            "name": "Macedonia",
+            "iso_alpha2": "MK"
+        }
+    },
+    {
+        "pk": "93dcb911-0cca-11e3-828f-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -19.441857,
+            "longitude": 46.639407,
+            "name": "Madagascar",
+            "iso_alpha2": "MG"
+        }
+    },
+    {
+        "pk": "93eb861e-0cca-11e3-ac8f-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -13.48107,
+            "longitude": 33.863494,
+            "name": "Malawi",
+            "iso_alpha2": "MW"
+        }
+    },
+    {
+        "pk": "940305c0-0cca-11e3-917b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 2.442171,
+            "longitude": 113.350808,
+            "name": "Malaysia",
+            "iso_alpha2": "MY"
+        }
+    },
+    {
+        "pk": "9413ce9e-0cca-11e3-818f-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 1.924356,
+            "longitude": 73.54406,
+            "name": "Maldives",
+            "iso_alpha2": "MV"
+        }
+    },
+    {
+        "pk": "9424224f-0cca-11e3-88e3-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 17.962477,
+            "longitude": -2.058973,
+            "name": "Mali",
+            "iso_alpha2": "ML"
+        }
+    },
+    {
+        "pk": "943400d1-0cca-11e3-b965-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 35.884462,
+            "longitude": 14.447499,
+            "name": "Malta",
+            "iso_alpha2": "MT"
+        }
+    },
+    {
+        "pk": "9442cdde-0cca-11e3-9fa6-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 6.090705,
+            "longitude": 171.734894,
+            "name": "Marshall Islands",
+            "iso_alpha2": "MH"
+        }
+    },
+    {
+        "pk": "94523730-0cca-11e3-b012-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 14.508739,
+            "longitude": -61.018055,
+            "name": "Martinique",
+            "iso_alpha2": "MQ"
+        }
+    },
+    {
+        "pk": "94615261-0cca-11e3-af1a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 20.583632,
+            "longitude": -10.949347,
+            "name": "Mauritania",
+            "iso_alpha2": "MR"
+        }
+    },
+    {
+        "pk": "94701f6e-0cca-11e3-b03d-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -20.259657,
+            "longitude": 57.557222,
+            "name": "Mauritius",
+            "iso_alpha2": "MU"
+        }
+    },
+    {
+        "pk": "947d8cf0-0cca-11e3-a7d6-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -12.964603,
+            "longitude": 45.139862,
+            "name": "Mayotte",
+            "iso_alpha2": "YT"
+        }
+    },
+    {
+        "pk": "948ca81e-0cca-11e3-bd5d-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 23.89233,
+            "longitude": -102.316834,
+            "name": "Mexico",
+            "iso_alpha2": "MX"
+        }
+    },
+    {
+        "pk": "949c3880-0cca-11e3-845a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 6.882453,
+            "longitude": 158.225067,
+            "name": "Micronesia",
+            "iso_alpha2": "FM"
+        }
+    },
+    {
+        "pk": "94a7d140-0cca-11e3-b474-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 47.141731,
+            "longitude": 28.757838,
+            "name": "Moldova",
+            "iso_alpha2": "MD"
+        }
+    },
+    {
+        "pk": "94b565cf-0cca-11e3-8d2c-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 43.739891,
+            "longitude": 7.40745,
+            "name": "Monaco",
+            "iso_alpha2": "MC"
+        }
+    },
+    {
+        "pk": "94c14cb0-0cca-11e3-a044-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 46.009608,
+            "longitude": 103.836651,
+            "name": "Mongolia",
+            "iso_alpha2": "MN"
+        }
+    },
+    {
+        "pk": "94d040cf-0cca-11e3-bf1c-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 42.791592,
+            "longitude": 19.258809,
+            "name": "Montenegro",
+            "iso_alpha2": "ME"
+        }
+    },
+    {
+        "pk": "94ddae51-0cca-11e3-8e76-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 16.750193,
+            "longitude": -62.193195,
+            "name": "Montserrat",
+            "iso_alpha2": "MS"
+        }
+    },
+    {
+        "pk": "94eb42e1-0cca-11e3-8228-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 32.221443,
+            "longitude": -6.22945,
+            "name": "Morocco",
+            "iso_alpha2": "MA"
+        }
+    },
+    {
+        "pk": "94f86240-0cca-11e3-af73-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -18.156352,
+            "longitude": 34.537001,
+            "name": "Mozambique",
+            "iso_alpha2": "MZ"
+        }
+    },
+    {
+        "pk": "9506930f-0cca-11e3-8cf5-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 21.191093,
+            "longitude": 96.470353,
+            "name": "Myanmar",
+            "iso_alpha2": "MM"
+        }
+    },
+    {
+        "pk": "9513b270-0cca-11e3-acda-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -22.364301,
+            "longitude": 17.31162,
+            "name": "Namibia",
+            "iso_alpha2": "NA"
+        }
+    },
+    {
+        "pk": "95220a4f-0cca-11e3-8e1a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -0.527694,
+            "longitude": 166.934044,
+            "name": "Nauru",
+            "iso_alpha2": "NR"
+        }
+    },
+    {
+        "pk": "95320fe1-0cca-11e3-ad6e-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 28.295453,
+            "longitude": 83.461129,
+            "name": "Nepal",
+            "iso_alpha2": "NP"
+        }
+    },
+    {
+        "pk": "953f7d5e-0cca-11e3-8c56-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 52.178116,
+            "longitude": 5.363161,
+            "name": "Netherlands",
+            "iso_alpha2": "NL"
+        }
+    },
+    {
+        "pk": "954ebfa1-0cca-11e3-aa61-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 12.14995,
+            "longitude": -68.949303,
+            "name": "Netherlands Antilles",
+            "iso_alpha2": "AN"
+        }
+    },
+    {
+        "pk": "955c2d21-0cca-11e3-8233-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -21.409777,
+            "longitude": 165.517357,
+            "name": "New Caledonia",
+            "iso_alpha2": "NC"
+        }
+    },
+    {
+        "pk": "9569738f-0cca-11e3-b475-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -44.520762,
+            "longitude": 170.371666,
+            "name": "New Zealand",
+            "iso_alpha2": "NZ"
+        }
+    },
+    {
+        "pk": "957840a1-0cca-11e3-87dd-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 12.626621,
+            "longitude": -85.420033,
+            "name": "Nicaragua",
+            "iso_alpha2": "NI"
+        }
+    },
+    {
+        "pk": "9585fc40-0cca-11e3-ac60-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 17.212729,
+            "longitude": 9.313465,
+            "name": "Niger",
+            "iso_alpha2": "NE"
+        }
+    },
+    {
+        "pk": "95973a4f-0cca-11e3-9ece-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 9.458086,
+            "longitude": 7.690133,
+            "name": "Nigeria",
+            "iso_alpha2": "NG"
+        }
+    },
+    {
+        "pk": "95a78e00-0cca-11e3-8d45-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -19.053108,
+            "longitude": -169.862221,
+            "name": "Niue",
+            "iso_alpha2": "NU"
+        }
+    },
+    {
+        "pk": "95b4ad61-0cca-11e3-9c29-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -29.033276,
+            "longitude": 167.955833,
+            "name": "Norfolk Island",
+            "iso_alpha2": "NF"
+        }
+    },
+    {
+        "pk": "95c26900-0cca-11e3-972a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 39.67703,
+            "longitude": 126.356014,
+            "name": "North Korea",
+            "iso_alpha2": "KP"
+        }
+    },
+    {
+        "pk": "95d1ab40-0cca-11e3-b27c-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 15.204095,
+            "longitude": 145.76059,
+            "name": "Northern Mariana Islands",
+            "iso_alpha2": "MP"
+        }
+    },
+    {
+        "pk": "95e09f5e-0cca-11e3-ae2c-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 64.35148,
+            "longitude": 11.96861,
+            "name": "Norway",
+            "iso_alpha2": "NO"
+        }
+    },
+    {
+        "pk": "95efba91-0cca-11e3-b67d-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 20.567287,
+            "longitude": 56.668257,
+            "name": "Oman",
+            "iso_alpha2": "OM"
+        }
+    },
+    {
+        "pk": "95fed5c0-0cca-11e3-90df-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 29.899236,
+            "longitude": 69.642966,
+            "name": "Pakistan",
+            "iso_alpha2": "PK"
+        }
+    },
+    {
+        "pk": "960f9e9e-0cca-11e3-b357-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 7.474236,
+            "longitude": 134.554718,
+            "name": "Palau",
+            "iso_alpha2": "PW"
+        }
+    },
+    {
+        "pk": "961ee0e1-0cca-11e3-a620-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 31.938291,
+            "longitude": 35.293329,
+            "name": "Palestinian Occupied Territory",
+            "iso_alpha2": "PS"
+        }
+    },
+    {
+        "pk": "962fa9c0-0cca-11e3-bdb9-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 8.310244,
+            "longitude": -80.906016,
+            "name": "Panama",
+            "iso_alpha2": "PA"
+        }
+    },
+    {
+        "pk": "9640c0c0-0cca-11e3-b1c0-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -6.434812,
+            "longitude": 144.508377,
+            "name": "Papua New Guinea",
+            "iso_alpha2": "PG"
+        }
+    },
+    {
+        "pk": "96511470-0cca-11e3-a914-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -23.618849,
+            "longitude": -57.89489,
+            "name": "Paraguay",
+            "iso_alpha2": "PY"
+        }
+    },
+    {
+        "pk": "96655fc0-0cca-11e3-86b3-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -8.727757,
+            "longitude": -75.574655,
+            "name": "Peru",
+            "iso_alpha2": "PE"
+        }
+    },
+    {
+        "pk": "9676289e-0cca-11e3-887d-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 12.293657,
+            "longitude": 123.622001,
+            "name": "Philippines",
+            "iso_alpha2": "PH"
+        }
+    },
+    {
+        "pk": "96873f9e-0cca-11e3-984e-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -24.373412,
+            "longitude": -128.325005,
+            "name": "Pitcairn",
+            "iso_alpha2": "PN"
+        }
+    },
+    {
+        "pk": "9697e170-0cca-11e3-8309-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 52.059635,
+            "longitude": 19.162489,
+            "name": "Poland",
+            "iso_alpha2": "PL"
+        }
+    },
+    {
+        "pk": "96be0711-0cca-11e3-8ca0-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 39.577946,
+            "longitude": -8.244391,
+            "name": "Portugal",
+            "iso_alpha2": "PT"
+        }
+    },
+    {
+        "pk": "96ca1500-0cca-11e3-a2e6-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 18.225103,
+            "longitude": -66.430553,
+            "name": "Puerto Rico",
+            "iso_alpha2": "PR"
+        }
+    },
+    {
+        "pk": "96d93030-0cca-11e3-be35-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 25.368013,
+            "longitude": 51.189585,
+            "name": "Qatar",
+            "iso_alpha2": "QA"
+        }
+    },
+    {
+        "pk": "96e84b61-0cca-11e3-8d9e-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -21.124515,
+            "longitude": 55.526943,
+            "name": "Reunion",
+            "iso_alpha2": "RE"
+        }
+    },
+    {
+        "pk": "96f93b51-0cca-11e3-a63b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 45.739208,
+            "longitude": 24.97655,
+            "name": "Romania",
+            "iso_alpha2": "RO"
+        }
+    },
+    {
+        "pk": "970b8acf-0cca-11e3-aaf5-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 63.884189,
+            "longitude": 103.660629,
+            "name": "Russia",
+            "iso_alpha2": "RU"
+        }
+    },
+    {
+        "pk": "971acd0f-0cca-11e3-9535-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -2.056598,
+            "longitude": 29.876375,
+            "name": "Rwanda",
+            "iso_alpha2": "RW"
+        }
+    },
+    {
+        "pk": "9729c130-0cca-11e3-89ff-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -37.11615,
+            "longitude": -12.283194,
+            "name": "Saint Helena",
+            "iso_alpha2": "SH"
+        }
+    },
+    {
+        "pk": "973ab121-0cca-11e3-aa73-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 17.341081,
+            "longitude": -62.761091,
+            "name": "Saint Kitts and Nevis",
+            "iso_alpha2": "KN"
+        }
+    },
+    {
+        "pk": "974d27b0-0cca-11e3-8552-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 13.883847,
+            "longitude": -60.97625,
+            "name": "Saint Lucia",
+            "iso_alpha2": "LC"
+        }
+    },
+    {
+        "pk": "97662df0-0cca-11e3-ad90-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 48.688821,
+            "longitude": -56.495413,
+            "name": "Saint Pierre and Miquelon",
+            "iso_alpha2": "PM"
+        }
+    },
+    {
+        "pk": "97787d70-0cca-11e3-9c65-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 13.252215,
+            "longitude": -61.196667,
+            "name": "Saint Vincent and The Grenadines",
+            "iso_alpha2": "VC"
+        }
+    },
+    {
+        "pk": "9787bfae-0cca-11e3-943c-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -13.631765,
+            "longitude": -172.48893,
+            "name": "Samoa",
+            "iso_alpha2": "WS"
+        }
+    },
+    {
+        "pk": "97a1140f-0cca-11e3-9d34-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 43.934822,
+            "longitude": 12.457745,
+            "name": "San Marino",
+            "iso_alpha2": "SM"
+        }
+    },
+    {
+        "pk": "97b1dcee-0cca-11e3-97e8-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 0.244843,
+            "longitude": 6.611111,
+            "name": "Sao Tome and Principe",
+            "iso_alpha2": "ST"
+        }
+    },
+    {
+        "pk": "97c16d4f-0cca-11e3-b2f1-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 24.059159,
+            "longitude": 44.650117,
+            "name": "Saudi Arabia",
+            "iso_alpha2": "SA"
+        }
+    },
+    {
+        "pk": "97d1c100-0cca-11e3-b814-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 14.387458,
+            "longitude": -14.528808,
+            "name": "Senegal",
+            "iso_alpha2": "SN"
+        }
+    },
+    {
+        "pk": "97e10340-0cca-11e3-836e-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 43.761692,
+            "longitude": 20.892227,
+            "name": "Serbia",
+            "iso_alpha2": "RS"
+        }
+    },
+    {
+        "pk": "97f1a50f-0cca-11e3-931f-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -4.623074,
+            "longitude": 55.452087,
+            "name": "Seychelles",
+            "iso_alpha2": "SC"
+        }
+    },
+    {
+        "pk": "9800c040-0cca-11e3-99ac-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 8.554733,
+            "longitude": -11.785952,
+            "name": "Sierra Leone",
+            "iso_alpha2": "SL"
+        }
+    },
+    {
+        "pk": "9812c19e-0cca-11e3-ad72-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 1.356532,
+            "longitude": 103.82275,
+            "name": "Singapore",
+            "iso_alpha2": "SG"
+        }
+    },
+    {
+        "pk": "9823ffb0-0cca-11e3-b0c2-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 48.802117,
+            "longitude": 19.698631,
+            "name": "Slovakia",
+            "iso_alpha2": "SK"
+        }
+    },
+    {
+        "pk": "9839d19e-0cca-11e3-b340-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 46.019571,
+            "longitude": 14.72435,
+            "name": "Slovenia",
+            "iso_alpha2": "SI"
+        }
+    },
+    {
+        "pk": "984bd300-0cca-11e3-9c15-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -9.617312,
+            "longitude": 160.208618,
+            "name": "Solomon Islands",
+            "iso_alpha2": "SB"
+        }
+    },
+    {
+        "pk": "985bb180-0cca-11e3-8f7b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 9.072235,
+            "longitude": 48.209242,
+            "name": "Somalia",
+            "iso_alpha2": "SO"
+        }
+    },
+    {
+        "pk": "986c534f-0cca-11e3-8154-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -29.311549,
+            "longitude": 24.334412,
+            "name": "South Africa",
+            "iso_alpha2": "ZA"
+        }
+    },
+    {
+        "pk": "987d1c2e-0cca-11e3-92ab-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -54.210912,
+            "longitude": -36.906586,
+            "name": "South Georgia and the South Sandwich Islands",
+            "iso_alpha2": "GS"
+        }
+    },
+    {
+        "pk": "988de50f-0cca-11e3-8c61-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 36.625771,
+            "longitude": 127.848053,
+            "name": "South Korea",
+            "iso_alpha2": "KR"
+        }
+    },
+    {
+        "pk": "989eadf0-0cca-11e3-b67b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 40.359929,
+            "longitude": -3.174505,
+            "name": "Spain",
+            "iso_alpha2": "ES"
+        }
+    },
+    {
+        "pk": "98ada20f-0cca-11e3-8861-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 7.662877,
+            "longitude": 80.785862,
+            "name": "Sri Lanka",
+            "iso_alpha2": "LK"
+        }
+    },
+    {
+        "pk": "98c68140-0cca-11e3-94b8-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 13.555893,
+            "longitude": 29.484373,
+            "name": "Sudan",
+            "iso_alpha2": "SD"
+        }
+    },
+    {
+        "pk": "98e1d170-0cca-11e3-9a9b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 3.828157,
+            "longitude": -56.0004,
+            "name": "Suriname",
+            "iso_alpha2": "SR"
+        }
+    },
+    {
+        "pk": "98f2251e-0cca-11e3-b395-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 78.870221,
+            "longitude": 17.272813,
+            "name": "Svalbard and Jan Mayen",
+            "iso_alpha2": "SJ"
+        }
+    },
+    {
+        "pk": "990ed4e1-0cca-11e3-bf1f-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -26.524835,
+            "longitude": 31.467125,
+            "name": "Swaziland",
+            "iso_alpha2": "SZ"
+        }
+    },
+    {
+        "pk": "991c9080-0cca-11e3-a8fc-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 63.204338,
+            "longitude": 14.894685,
+            "name": "Sweden",
+            "iso_alpha2": "SE"
+        }
+    },
+    {
+        "pk": "99280230-0cca-11e3-935a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 46.969658,
+            "longitude": 8.225648,
+            "name": "Switzerland",
+            "iso_alpha2": "CH"
+        }
+    },
+    {
+        "pk": "99343730-0cca-11e3-a32d-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 35.07422,
+            "longitude": 38.708593,
+            "name": "Syria",
+            "iso_alpha2": "SY"
+        }
+    },
+    {
+        "pk": "99432b4f-0cca-11e3-9bed-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 23.812347,
+            "longitude": 121.019028,
+            "name": "Taiwan",
+            "iso_alpha2": "TW"
+        }
+    },
+    {
+        "pk": "99504ab0-0cca-11e3-bcaf-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 38.806597,
+            "longitude": 71.193933,
+            "name": "Tajikistan",
+            "iso_alpha2": "TJ"
+        }
+    },
+    {
+        "pk": "995fb400-0cca-11e3-88c2-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -6.413674,
+            "longitude": 34.886152,
+            "name": "Tanzania",
+            "iso_alpha2": "TZ"
+        }
+    },
+    {
+        "pk": "996d2180-0cca-11e3-8b7a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 15.35453,
+            "longitude": 100.853755,
+            "name": "Thailand",
+            "iso_alpha2": "TH"
+        }
+    },
+    {
+        "pk": "997a8f00-0cca-11e3-bfe6-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 41.903551,
+            "longitude": 12.451773,
+            "name": "The Vatican",
+            "iso_alpha2": "VA"
+        }
+    },
+    {
+        "pk": "9987392e-0cca-11e3-908b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -8.760494,
+            "longitude": 126.116207,
+            "name": "Timor-Leste",
+            "iso_alpha2": "TL"
+        }
+    },
+    {
+        "pk": "9993bc4f-0cca-11e3-a3a2-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 8.516014,
+            "longitude": 1.065586,
+            "name": "Togo",
+            "iso_alpha2": "TG"
+        }
+    },
+    {
+        "pk": "99a807a1-0cca-11e3-89f5-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -9.183405,
+            "longitude": -171.776253,
+            "name": "Tokelau",
+            "iso_alpha2": "TK"
+        }
+    },
+    {
+        "pk": "99b3a061-0cca-11e3-91c1-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -21.18005,
+            "longitude": -175.193611,
+            "name": "Tonga",
+            "iso_alpha2": "TO"
+        }
+    },
+    {
+        "pk": "99c63e00-0cca-11e3-a2bf-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 10.397097,
+            "longitude": -61.258021,
+            "name": "Trinidad and Tobago",
+            "iso_alpha2": "TT"
+        }
+    },
+    {
+        "pk": "99d55930-0cca-11e3-9663-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 33.835766,
+            "longitude": 9.093843,
+            "name": "Tunisia",
+            "iso_alpha2": "TN"
+        }
+    },
+    {
+        "pk": "99e49b70-0cca-11e3-b1b3-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 39.123919,
+            "longitude": 35.448239,
+            "name": "Turkey",
+            "iso_alpha2": "TR"
+        }
+    },
+    {
+        "pk": "99fa1f40-0cca-11e3-9798-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 39.77804,
+            "longitude": 57.892662,
+            "name": "Turkmenistan",
+            "iso_alpha2": "TM"
+        }
+    },
+    {
+        "pk": "9a07b3cf-0cca-11e3-be2a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 21.794989,
+            "longitude": -71.855278,
+            "name": "Turks and Caicos",
+            "iso_alpha2": "TC"
+        }
+    },
+    {
+        "pk": "9a16cf00-0cca-11e3-b59a-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -7.482901,
+            "longitude": 178.679352,
+            "name": "Tuvalu",
+            "iso_alpha2": "TV"
+        }
+    },
+    {
+        "pk": "9a2acc2e-0cca-11e3-8581-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 1.332278,
+            "longitude": 32.286222,
+            "name": "Uganda",
+            "iso_alpha2": "UG"
+        }
+    },
+    {
+        "pk": "9a3d69cf-0cca-11e3-ad5c-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 49.352042,
+            "longitude": 31.178926,
+            "name": "Ukraine",
+            "iso_alpha2": "UA"
+        }
+    },
+    {
+        "pk": "9a4c5df0-0cca-11e3-a914-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 23.382575,
+            "longitude": 53.748503,
+            "name": "United Arab Emirates",
+            "iso_alpha2": "AE"
+        }
+    },
+    {
+        "pk": "9a59a461-0cca-11e3-b3a3-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 53.142645,
+            "longitude": -1.449462,
+            "name": "United Kingdom",
+            "iso_alpha2": "GB"
+        }
+    },
+    {
+        "pk": "9a676000-0cca-11e3-ba29-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 19.287395,
+            "longitude": 166.627228,
+            "name": "United States Minor Outlying Islands",
+            "iso_alpha2": "UM"
+        }
+    },
+    {
+        "pk": "9a747f5e-0cca-11e3-834b-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -32.892404,
+            "longitude": -55.768484,
+            "name": "Uruguay",
+            "iso_alpha2": "UY"
+        }
+    },
+    {
+        "pk": "9a8a7861-0cca-11e3-93ed-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 39.818923,
+            "longitude": -102.372422,
+            "name": "USA",
+            "iso_alpha2": "US"
+        }
+    },
+    {
+        "pk": "9a965f40-0cca-11e3-ba29-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 41.773304,
+            "longitude": 63.345027,
+            "name": "Uzbekistan",
+            "iso_alpha2": "UZ"
+        }
+    },
+    {
+        "pk": "9aa3ccc0-0cca-11e3-8bc3-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -15.340615,
+            "longitude": 166.900841,
+            "name": "Vanuatu",
+            "iso_alpha2": "VU"
+        }
+    },
+    {
+        "pk": "9ab6434f-0cca-11e3-b9a6-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 7.292647,
+            "longitude": -66.059506,
+            "name": "Venezuela",
+            "iso_alpha2": "VE"
+        }
+    },
+    {
+        "pk": "9ac892d1-0cca-11e3-a3f6-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 11.271915,
+            "longitude": 107.190534,
+            "name": "Viet Nam",
+            "iso_alpha2": "VN"
+        }
+    },
+    {
+        "pk": "9ad7d50f-0cca-11e3-bf6e-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 17.737507,
+            "longitude": -64.734726,
+            "name": "Virgin Islands (US)",
+            "iso_alpha2": "VI"
+        }
+    },
+    {
+        "pk": "9ae4f470-0cca-11e3-86eb-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -13.287736,
+            "longitude": -176.206253,
+            "name": "Wallis and Futuna",
+            "iso_alpha2": "WF"
+        }
+    },
+    {
+        "pk": "9af60b6e-0cca-11e3-a1d2-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 24.734801,
+            "longitude": -13.593926,
+            "name": "Western Sahara",
+            "iso_alpha2": "EH"
+        }
+    },
+    {
+        "pk": "9b06d44f-0cca-11e3-b335-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": 15.863953,
+            "longitude": 47.852297,
+            "name": "Yemen",
+            "iso_alpha2": "YE"
+        }
+    },
+    {
+        "pk": "9b15ef80-0cca-11e3-ad40-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -14.596198,
+            "longitude": 27.852353,
+            "name": "Zambia",
+            "iso_alpha2": "ZM"
+        }
+    },
+    {
+        "pk": "9b307c61-0cca-11e3-a801-1c4bd619cf9a",
+        "model": "twitter_app.country",
+        "fields": {
+            "latitude": -18.929299,
+            "longitude": 29.788099,
+            "name": "Zimbabwe",
+            "iso_alpha2": "ZW"
+        }
+    },
+]
