@@ -23,6 +23,7 @@ def index(request):
               consumer_secret=CONSUMER_SECRET,
               access_token_key=ACCESS_TOKEN_KEY,
               access_token_secret=ACCESS_TOKEN_SECRET)
+
     profile, _ = Profile.objects.get_or_create(user=request.user)
     if profile.twitter_name:  # If we had a profile and saved a twitter name, use it here or use our username
         user_id = profile.twitter_name
