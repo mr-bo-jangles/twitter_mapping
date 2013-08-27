@@ -6,9 +6,34 @@ Twitter mapping has a few dependencies which are listed in the requirements.txt 
 Twitter mapping also uses Django South, which allows us to version database schemas
 Data for the application such as Country data is stored in the fixtures folders under each app.
 
-=== Alterations for Specification ===
+=== Alterations from Specification ===
 Originally this application was supposed to show a specific twitter feed, but I have been forced
 to make the feed configurable.
+
+=== Installation ===
+
+1. git clone
+2. Virtualenv + pip install -r requirements
+3. Read "Local Settings" section
+4. python manage.py syncdb
+5. python manage.py migrate
+6. python manage.py collectstatic
+
+=== Local Settings Section ===
+
+By default this project will start in production mode and will require you to load your own secret_key
+in via the local settings file.
+
+This file is created in the same directory as settings.py and is called local_settings.py any variables
+from settings.py will be overridden.
+
+an example of the contents of this file:
+
+"""
+SECRET_KEY = '<generate your own key>'
+DEBUG = True
+TEMPLATE_DEBUG = DEBUG
+"""
 
 === Bugs ===
 There is a bug on the index page that effects the profile and logout buttons where the page
