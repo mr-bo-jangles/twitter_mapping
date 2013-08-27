@@ -1,5 +1,5 @@
 {% extends 'base.html' %}
-{% load humanize %}
+{% load humanize static %}
 
 {% block css %}
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/qtip2/2.1.1/jquery.qtip.min.css"/>
@@ -118,7 +118,7 @@
             }, 500);
         });
 
-        $('a[href]').not('a[href] > input').each(function () {
+        $('a[href]').not('.btn').each(function () {
             var elem = $(this);
 
             // Grab the URL from our link

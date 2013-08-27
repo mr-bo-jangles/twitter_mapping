@@ -1,0 +1,16 @@
+
+body {
+    background-image: url('/static/twitter/img/cartographer.png');
+}
+
+body h1 {
+    color: #f5f5f5;
+}
+
+body h3 {
+    color: #f5f5f5;
+}
+
+.well h1 {
+    color: #000000;
+}

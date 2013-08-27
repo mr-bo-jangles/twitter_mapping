@@ -5,14 +5,19 @@
 {% block body %}
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 col-lg-offset-3">
-                <h1>You have successfully logged out</h1>
-                <a href="{% url 'auth_login' %}">
-                    <button class="btn btn-success">Login</button>
-                </a>
-                <a href="{% url 'registration_register' %}">
-                    <button class="btn btn-info">Register</button>
-                </a>
+            <h3>Welcome to Twitter Mapping</h3>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-lg-offset-3 text-center">
+                <div class="well well-lg">
+                    <h1>You have successfully logged out</h1>
+                    <a href="{% url 'auth_login' %}">
+                        <button class="btn btn-success">Login</button>
+                    </a>
+                    <a href="{% url 'registration_register' %}">
+                        <button class="btn btn-info">Register</button>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
