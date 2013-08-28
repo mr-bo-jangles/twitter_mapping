@@ -18,6 +18,7 @@ to make the feed configurable.
 4. python manage.py syncdb
 5. python manage.py migrate
 6. python manage.py collectstatic
+7. python manage.py loaddata country_data.json
 
 === Local Settings Section ===
 
